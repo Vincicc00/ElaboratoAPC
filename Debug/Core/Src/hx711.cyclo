@@ -1,0 +1,4 @@
+../Core/Src/hx711.c:5:6:HX711_Init	1
+../Core/Src/hx711.c:29:6:HX711_IsReady	2
+../Core/Src/hx711.c:37:6:HX711_SetGain	5
+../Core/Src/hx711.c:54:9:HX711_Read	6
